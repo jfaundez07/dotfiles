@@ -17,10 +17,10 @@ sudo pacman -S ttf-cascadia-code-nerd
 
 ### Terminal:
 
-Kitty
-ZSH
-Oh-My-Zsh
-Fastfetch
+Kitty  
+ZSH  
+Oh-My-Zsh  
+Fastfetch  
 
 ### Text editor
 
