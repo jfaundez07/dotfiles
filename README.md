@@ -1,5 +1,11 @@
 # dotfiles
 
+## Take a look
+![](MainDisplay.png)
+![](RofiDisplay.png)
+![](NvimDisplay.png)
+
+
 ## Requirments:
 
 ### Window Manager: Hyperland
@@ -10,7 +16,7 @@ hyprlock
 sudo pacman -S hyprlock
 ```
 
-hyprpaper
+hyprp   aper
 
 ```bash
 sudo pacman -S hyprpaper
