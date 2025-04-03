@@ -21,8 +21,8 @@
         "power-profiles-daemon",
         "backlight",
         "battery",
-        "clock",
-        "custom/power"
+	"clock",
+	"custom/power"
     ],
 
     "tray": {

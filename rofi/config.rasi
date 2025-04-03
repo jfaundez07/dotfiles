@@ -1,0 +1,33 @@
+@theme "purple"
+
+window {
+	background-color: rgba(0, 0, 0, 0.7);
+	border:2px;
+	border-color: #B085F5;
+}
+
+configuration {
+	font: "CaskaydiaCove Nerd Font 15";
+}
+
+entry {
+	placeholder: "Type here";
+}
+
+
+element {
+	orientation: horizontal;
+	children: [ element-icon ,element-text ];
+	spacing: 10px; // Distance icon to text
+}
+
+element-text {
+	vertical-align: 0.5;
+}
+
+element-icon {
+	size: 1.3em;
+}
+
+
+
