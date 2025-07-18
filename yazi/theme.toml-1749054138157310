@@ -1,6 +1,6 @@
 # Catpuccin-Mocha:Blue
 
-[mgr]
+[manager]
 cwd = { fg = "#8bd5ca" }
 
 hovered         = { fg = "#24273a", bg = "#8aadf4" }
